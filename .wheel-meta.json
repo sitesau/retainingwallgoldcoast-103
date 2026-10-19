@@ -1,0 +1,22 @@
+{
+  "wheel_id": 462,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-103",
+  "project": "retaining-walls-gold-coast-cost-guide-769b2a3f5c21f4850d1ba2855",
+  "parent_t1_ref": "retainingwallgoldcoast-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast cost guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-gold-coast-cost-guide-769b2a3f5c21f4850d1ba2855/",
+  "tier": "T2",
+  "writeback_nonce": "3e35b420168eaa39",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-seasonal-timing-4b073e71c61eef67a71f/",
+      "anchor": "https://aumedia.neocities.org/retaining-walls-gold-coast-seasonal-timing-4b073e71c61eef67a71f/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
